@@ -20,8 +20,8 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: 120px;
-	min-width: 120px;
+	width: auto;
+	min-width: 150px;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
